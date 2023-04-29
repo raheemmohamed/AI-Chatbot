@@ -11,10 +11,19 @@
 />
 ```
 
-**2: Add following script tag**
+**2: Add following script tag and Configurations**
 
 ```javascript
-<script src="https://cdn.jsdelivr.net/gh/raheemmohamed/AI-Chatbot/dist/v1/main.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/raheemmohamed/AI-Chatbot/dist/v2/main.js"></script>
+<script>
+  chatbot.setChatBotConfiguration({
+    apiKey: "YOUR-API-KEY",
+    chatbotTitle: "YOUR-CHATBOT-TITLE",
+    initialMessage: "YOUR-INITIAL-CHATBOT-MESSAGE",
+    brandImage:
+      "YOUR-BRAND-IMAGE-FOR-CHATBOT",
+  });
+</script>
 ```
 
 **3: Place below html element in your `.html` body**
