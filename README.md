@@ -16,6 +16,7 @@
 ```javascript
 <script src="https://cdn.jsdelivr.net/gh/raheemmohamed/AI-Chatbot/dist/v2/main.js"></script>
 <script>
+  // Configuration for chatbot
   chatbot.setChatBotConfiguration({
     apiKey: "YOUR-API-KEY",
     chatbotTitle: "YOUR-CHATBOT-TITLE",
@@ -40,13 +41,11 @@
 https://cdn.jsdelivr.net/gh/raheemmohamed/AI-Chatbot/dist/v1/css/style.css
 
 // Ai chatbot script
-https://cdn.jsdelivr.net/gh/raheemmohamed/AI-Chatbot/dist/v1/main.js
+https://cdn.jsdelivr.net/gh/raheemmohamed/AI-Chatbot/dist/v2/main.js
 ```
 
 ## AI Chatbot UI Design
 
 Below is how AI Chatbot UI looks like
 
-![AI Chatbot UI](https://github.com/raheemmohamed/AI-Chatbot/blob/main/dist/v1/images/AI-chatbot-UI-Demo.gif)
-
-![AI Chatbot UI2](https://github.com/raheemmohamed/AI-Chatbot/blob/main/dist/v1/images/ai-chatbot-ui-2.gif)
+![AI Chatbot UI](https://github.com/raheemmohamed/AI-Chatbot/blob/main/dist/v2/images/AI-chatbot-UI-demo-new.gif)
