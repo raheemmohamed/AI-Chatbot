@@ -7,14 +7,14 @@
 ```html
 <link
   rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/raheemmohamed/AI-Chatbot/dist/v2.1/css/style.css"
+  href="https://cdn.jsdelivr.net/gh/raheemmohamed/AI-Chatbot/dist/v2.2/css/style.css"
 />
 ```
 
 **2: Add following script tag and Configurations**
 
 ```javascript
-<script src="https://cdn.jsdelivr.net/gh/raheemmohamed/AI-Chatbot/dist/v2.1/main.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/raheemmohamed/AI-Chatbot/dist/v2.2/main.js"></script>
 <script>
   // Configuration for chatbot
   chatbot.setChatBotConfiguration({
@@ -43,10 +43,10 @@
 
 ```javascript
 // Ai chatbot theme
-https://cdn.jsdelivr.net/gh/raheemmohamed/AI-Chatbot/dist/v2.1/css/style.css
+https://cdn.jsdelivr.net/gh/raheemmohamed/AI-Chatbot/dist/v2.2/css/style.css
 
 // Ai chatbot script
-https://cdn.jsdelivr.net/gh/raheemmohamed/AI-Chatbot/dist/v2.1/main.js
+https://cdn.jsdelivr.net/gh/raheemmohamed/AI-Chatbot/dist/v2.2/main.js
 ```
 
 ## AI Chatbot UI Design
